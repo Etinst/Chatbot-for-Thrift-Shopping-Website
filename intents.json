@@ -1,0 +1,338 @@
+{
+  "intents": [
+    {
+      "tag": "greeting_000",
+      "patterns": [
+        "Good morning",
+        "Hi",
+        "Hey there",
+        "Hello",
+        "Good afternoon",
+        "Good morning, what can you tell me today?",
+        "Hi there, how’s everything going?",
+        "Hey, just checking in—what’s new?"
+      ],
+      "responses": [
+        "Good morning! We’re here to assist you with exploring our thrift collection.",
+        "Hello! How may we enhance your shopping experience today?"
+      ]
+    },
+    {
+      "tag": "vintage_001",
+      "patterns": [
+        "I love vintage items—do you have anything interesting?",
+        "Hi, are there any classic pieces available?",
+        "What’s the best vintage item you’ve got right now?",
+        "Hey, do you stock unique vintage finds?"
+      ],
+      "responses": [
+        "Our vintage section features a curated selection of unique, timeless items.",
+        "Yes, we offer an array of distinctive vintage pieces. Please browse our collection online."
+      ]
+    },
+    {
+      "tag": "sustainable_002",
+      "patterns": [
+        "How does your store help with sustainability?",
+        "I’m into eco-friendly options—what do you have?",
+        "Good morning, what’s your approach to sustainable clothing?",
+        "Hey, are there any green items in your shop?"
+      ],
+      "responses": [
+        "We prioritize sustainability by offering items that reduce waste and support eco-friendly fashion.",
+        "Our sustainable collection is designed to minimize environmental impact. Please explore our offerings."
+      ]
+    },
+    {
+      "tag": "promo_003",
+      "patterns": [
+        "Hi, are there any promo codes available now?",
+        "Can I get a discount on my next purchase?",
+        "Good afternoon, do you have any current sales?",
+        "Hey, what promotions are running today?"
+      ],
+      "responses": [
+        "We regularly update our promotions page with the latest discount opportunities.",
+        "Special offers are available periodically. Please check our website and social media for current deals."
+      ]
+    },
+    {
+      "tag": "product_quality_004",
+      "patterns": [
+        "How do you ensure your items are good quality?",
+        "Hi there, what’s your process for checking products?",
+        "Are your thrift items in decent shape?",
+        "Good morning, how do you maintain quality?"
+      ],
+      "responses": [
+        "Each item is meticulously inspected to ensure it meets our high-quality standards.",
+        "We carefully evaluate all products to guarantee they are in excellent condition for our customers."
+      ]
+    },
+    {
+      "tag": "pricing_005",
+      "patterns": [
+        "Hi, can your prices be adjusted a bit?",
+        "How do you decide pricing for used items?",
+        "Hey, is there any flexibility in your prices?",
+        "Good afternoon, what sets your prices?"
+      ],
+      "responses": [
+        "Our prices are set based on item quality and uniqueness, though we offer occasional promotions.",
+        "Pricing reflects the value of each piece, with periodic discounts available for added savings."
+      ]
+    },
+    {
+      "tag": "return_policy_006",
+      "patterns": [
+        "What if an item doesn’t fit—can I return it?",
+        "Hi, how does your return policy work?",
+        "Good morning, what’s your process for returns?",
+        "Hey, what happens if I need to send something back?"
+      ],
+      "responses": [
+        "We offer a 30-day return policy for most items, ensuring your satisfaction.",
+        "Returns are straightforward. Please refer to our website for detailed guidelines."
+      ]
+    },
+    {
+      "tag": "store_hours_007",
+      "patterns": [
+        "Hi there, when are you open?",
+        "What are your store hours like?",
+        "Good afternoon, can you share your schedule?",
+        "Hey, when can I stop by?"
+      ],
+      "responses": [
+        "Our store operates from 10 AM to 8 PM, Monday through Saturday.",
+        "We’re open during standard hours, which are fully listed on our website."
+      ]
+    },
+    {
+      "tag": "social_media_008",
+      "patterns": [
+        "Hi, do you post updates on Instagram?",
+        "Where can I find you on social media?",
+        "Good morning, are you sharing new items online?",
+        "Hey, what’s happening on your social pages?"
+      ],
+      "responses": [
+        "We actively post updates on Instagram, Facebook, and Twitter. Follow us for the latest news.",
+        "Our social media profiles feature new inventory regularly. Please connect with us online."
+      ]
+    },
+    {
+      "tag": "donation_009",
+      "patterns": [
+        "Hi, can I donate my old clothes to you?",
+        "Do you accept donations of items?",
+        "Good afternoon, how do I donate stuff?",
+        "Hey, what’s the deal with donating?"
+      ],
+      "responses": [
+        "We gladly accept donations. Please visit our website for donation guidelines.",
+        "Yes, we welcome contributions. Contact us or review our site for the donation process."
+      ]
+    },
+    {
+      "tag": "styling_010",
+      "patterns": [
+        "Hi there, can you help me style thrift items?",
+        "How do I mix vintage with my current wardrobe?",
+        "Good morning, got any styling tips for thrift finds?",
+        "Hey, what’s your advice for thrift fashion?"
+      ],
+      "responses": [
+        "Our blog provides a variety of styling tips tailored to thrifted clothing.",
+        "We offer a style guide online with suggestions for integrating vintage and modern pieces."
+      ]
+    },
+    {
+      "tag": "customer_experience_011",
+      "patterns": [
+        "Hi, what do people think of your store?",
+        "Are there any customer reviews I can read?",
+        "Good afternoon, how’s your service rated?",
+        "Hey, what’s the feedback like from shoppers?"
+      ],
+      "responses": [
+        "Our customers value our unique inventory and service. Reviews are available on our website.",
+        "We’re proud of our positive feedback. Please see our site for customer testimonials."
+      ]
+    },
+    {
+      "tag": "authenticity_012",
+      "patterns": [
+        "Hi there, how do you verify branded items?",
+        "Are your designer pieces authentic?",
+        "Good morning, how do you ensure items are real?",
+        "Hey, can I trust your designer stuff?"
+      ],
+      "responses": [
+        "We employ a rigorous verification process to ensure all branded items are authentic.",
+        "Our designer products are thoroughly authenticated prior to sale, offering you confidence."
+      ]
+    },
+    {
+      "tag": "limited_edition_013",
+      "patterns": [
+        "Hi, do you have any limited-edition items?",
+        "Are there exclusive pieces available now?",
+        "Good afternoon, where are your rare finds?",
+        "Hey, got anything special in stock?"
+      ],
+      "responses": [
+        "We occasionally feature limited-edition items, available in our exclusive online section.",
+        "Our limited-edition products are updated regularly. Please check our website for availability."
+      ]
+    },
+    {
+      "tag": "custom_orders_014",
+      "patterns": [
+        "Hi there, can you create a custom selection for me?",
+        "Do you offer personal shopping assistance?",
+        "Good morning, can I get items picked just for me?",
+        "Hey, how do I order something tailored to my taste?"
+      ],
+      "responses": [
+        "We offer personalized selections based on your preferences. Please contact us to discuss.",
+        "Our team can assist with custom orders. Reach out with your style details for support."
+      ]
+    },
+    {
+      "tag": "collaboration_015",
+      "patterns": [
+        "Hi, are you working with local artists?",
+        "Do you have any fashion collaborations going?",
+        "Good afternoon, what’s up with your partnerships?",
+        "Hey, any cool team-ups happening?"
+      ],
+      "responses": [
+        "We partner with local talent to bring unique items. Details are in our collaborations section.",
+        "Our collaborations with artists enhance our offerings. Please see our website for more."
+      ]
+    },
+    {
+      "tag": "brand_story_016",
+      "patterns": [
+        "Hi there, what’s your store’s story?",
+        "How did your shop get started?",
+        "Good morning, what inspired your thrift business?",
+        "Hey, what’s the background of your brand?"
+      ],
+      "responses": [
+        "Our store was established with a commitment to sustainable fashion and quality finds.",
+        "We began with a passion for vintage and eco-friendly practices. Learn more on our site."
+      ]
+    },
+    {
+      "tag": "local_events_017",
+      "patterns": [
+        "Hi, are there any events coming up?",
+        "Do you have local pop-ups planned?",
+        "Good afternoon, where do I find event info?",
+        "Hey, what’s happening locally with your shop?"
+      ],
+      "responses": [
+        "We host local events regularly. Please visit our events page for the latest schedule.",
+        "Our community events are listed online. Join us for an engaging thrift experience."
+      ]
+    },
+    {
+      "tag": "membership_018",
+      "patterns": [
+        "Hi there, do you have a membership program?",
+        "What benefits come with joining your club?",
+        "Good morning, how do I sign up for rewards?",
+        "Hey, any perks for loyal customers?"
+      ],
+      "responses": [
+        "Our loyalty program offers exclusive discounts and early access. Sign up on our website.",
+        "Membership provides valuable perks. Please register online to begin enjoying benefits."
+      ]
+    },
+    {
+      "tag": "gift_ideas_019",
+      "patterns": [
+        "Hi, can you suggest some gift ideas?",
+        "What thrift items work well as presents?",
+        "Good afternoon, got a gift guide?",
+        "Hey, what’s good for gifting?"
+      ],
+      "responses": [
+        "Our gift guide highlights unique thrift items perfect for any occasion.",
+        "We offer a curated selection of gift-worthy finds. Please explore our recommendations online."
+      ]
+    },
+    {
+      "tag": "faq_020",
+      "patterns": [
+        "Hi there, where can I find answers to my questions?",
+        "Do you have an FAQ page I can check?",
+        "Good morning, where’s your info section?",
+        "Hey, how do I learn more about your shop?"
+      ],
+      "responses": [
+        "Our FAQ page provides comprehensive answers to common questions. Please visit it online.",
+        "For additional information, our FAQ section is a valuable resource on our website."
+      ]
+    },
+    {
+      "tag": "help_me_021",
+      "patterns": [
+        "How can you help me",
+        "Hi, how can you help me with shopping?",
+        "What assistance can you offer me today?",
+        "Good afternoon, can you guide me here?",
+        "Hey, how do you support customers?",
+        "Hi there, what kind of help can you provide?",
+        "Good morning, how can you assist me with my shopping needs?"
+      ],
+      "responses": [
+        "We’re here to assist with product searches, order tracking, and any inquiries you may have.",
+        "Our team can support you with recommendations, order updates, and general guidance."
+      ]
+    },
+    {
+      "tag": "about_website_022",
+      "patterns": [
+        "Hi there, what’s your website about?",
+        "Can you tell me about your site?",
+        "Good morning, what’s this platform for?",
+        "Hey, what’s the deal with your webpage?"
+      ],
+      "responses": [
+        "Our website is dedicated to providing unique thrift items and sustainable fashion options.",
+        "We offer an online platform for browsing high-quality second-hand goods and eco-conscious shopping."
+      ]
+    },
+    {
+      "tag": "contact_info_023",
+      "patterns": [
+        "Hi, how do I contact you?",
+        "What’s your contact information?",
+        "Good afternoon, where can I reach you?",
+        "Hey, how do I get in touch?"
+      ],
+      "responses": [
+        "You may reach us at help@thriftyfyme.com or by phone at 823 503 8932.",
+        "For assistance, please contact us via email at help@thriftyfyme.com or call 823 503 8932."
+      ]
+    },
+    {
+      "tag": "seasonal_clothing_024",
+      "patterns": [
+        "Can you help me with winter clothes?",
+        "Hi, do you have any winter clothing available?",
+        "Good morning, what winter items do you stock?",
+        "Hey, are there winter clothes in your shop?",
+        "What do you have for winter wear?",
+        "Hi there, can you find me some winter outfits?"
+      ],
+      "responses": [
+        "Our seasonal inventory includes winter clothing options. Please check our collection online for current availability.",
+        "We offer a variety of winter items, updated regularly. Visit our website to explore the latest selections."
+      ]
+    }
+  ]
+}
